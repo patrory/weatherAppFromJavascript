@@ -1,1 +1,1 @@
-# weatherAppFromJavascript
+# weather.github.io
